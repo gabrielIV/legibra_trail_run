@@ -1,0 +1,2 @@
+[18-Jul-2018 07:14:51 America/New_York] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/legiajay/run.legibra.com/php/register.php on line 76
+[18-Jul-2018 11:14:52 Etc/UTC] PHP Notice:  Undefined index: phoneNumber in /home/legiajay/run.legibra.com/php/register.php on line 109

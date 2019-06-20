@@ -1,0 +1,130 @@
+/* Extra Small Devices, .visible-xs-* */
+
+@media (max-width: 767px) {
+  .main-logo {
+    width: 75% !important;
+  }
+  .share-word {
+    display: none;
+  }
+  .share-parent {
+    margin-right: 0px !important;
+    text-align: center;
+    float: unset !important;
+    margin-top: 20px !important
+  }
+  .share-parent a {
+    float: unset !important;
+    margin-right: 0px !important;
+    text-align: center;
+    float: unset !important;
+    margin-top: 20px !important;
+  }
+  .index-container {
+    padding-bottom: calc( 100vw * (1080/1928));
+    background-image: url('../img/Background-small.png');
+    background-position: bottom;
+    background-size: cover bottom;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+  .main-logo-parent {
+    text-align: center;
+  }
+  .title-4 {
+    font-size: 26px;
+  }
+  .register-card {
+    margin-top: 60px;
+    padding: 0px;
+  }
+  .footer-copyright {
+    position: relative;
+    margin-top: -37px;
+    font-size: 10px;
+    position: absolute;
+    bottom: unset;
+    padding-bottom: 0px !important;
+  }
+  .status-img {
+    width: 50%;
+    margin-top: 30px;
+  }
+  .status-details {}
+  .payment-success-title {
+    font-size: 26px;
+    line-height: 1.2;
+  }
+
+	.payment-success-description{
+		font-size: 14px;
+    margin-top: 14px;
+	}
+
+}
+
+/* Small Devices, .visible-sm-* */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .background-image {
+    display: none;
+  }
+  .animated-background{
+    display: none !important;
+  }
+  body {
+    background-image: url('../img/Background.png');
+    background-position: bottom;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+
+}
+
+/* Medium Devices, .visible-md-* */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .background-image {
+    display: none;
+  }
+
+  .animated-background{
+    display: block !important;
+  }
+  body {
+    /* background-image: url('../img/Background.png'); */
+    background-position: bottom;
+    background-size: 100% auto;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+
+}
+
+/* Large Devices, .visible-lg-* */
+
+@media (min-width: 1200px) {
+  .background-image {
+    display: none;
+  }
+  body {
+    /* background-image: url('../img/Background.png'); */
+    background-position: bottom;
+    background-size: 100% auto;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+  .main-logo{
+    margin-left: 5%;
+
+  }
+  .animated-background{
+    display: block !important;
+  }
+
+  .success-img{
+    width: 17% !important;
+  }
+
+}

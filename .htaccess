@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^run.legibra\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.run.legibra\.com$
+RewriteRule ^(.*)$ "https\:\/\/run.legibra\.com\/$1" [R=301,L]

@@ -1,0 +1,32 @@
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<API3G>
+    <Result>000</Result>
+    <ResultExplanation>Transaction Paid</ResultExplanation>
+    <TransactionToken>E8616200-2A84-4DF4-BE67-C251ED1A4AA2</TransactionToken>
+    <CustomerName>andrew</CustomerName>
+    <CustomerCredit>15</CustomerCredit>
+    <CustomerCreditType>MASC</CustomerCreditType>
+    <TransactionApproval>4444444404</TransactionApproval>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <TransactionAmount>2.00</TransactionAmount>
+    <FraudAlert>005</FraudAlert>
+    <FraudExplnation>Low Risk (Checked)</FraudExplnation>
+    <TransactionNetAmount>2.00</TransactionNetAmount>
+    <TransactionSettlementDate>2018/04/25</TransactionSettlementDate>
+    <TransactionRollingReserveAmount>0.00</TransactionRollingReserveAmount>
+    <TransactionRollingReserveDate>2018/04/13</TransactionRollingReserveDate>
+    <CustomerPhone>0716721022</CustomerPhone>
+    <CustomerCountry>Kenya</CustomerCountry>
+    <CustomerAddress>Nairobi</CustomerAddress>
+    <CustomerCity>Nairobi</CustomerCity>
+    <CustomerZip>254</CustomerZip>
+    <MobilePaymentRequest>Not sent</MobilePaymentRequest>
+    <AccRef></AccRef>
+    <TransactionFinalCurrency>USD</TransactionFinalCurrency>
+    <TransactionFinalAmount>2.00</TransactionFinalAmount>
+</API3G>

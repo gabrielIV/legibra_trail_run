@@ -1,0 +1,56 @@
+[28-Sep-2018 03:38:36 America/New_York] PHP Notice:  Undefined index: group in /home/legiajay/run.legibra.com/admin/php/bulk_sms.php on line 9
+[28-Sep-2018 03:38:36 America/New_York] PHP Notice:  Undefined index: group in /home/legiajay/run.legibra.com/admin/php/bulk_sms.php on line 10
+[28-Sep-2018 03:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/legiajay/run.legibra.com/admin/php/bulk_sms.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/bulk_sms.php on line 17
+[02-Oct-2018 04:49:34 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:35 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:35 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:37 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:37 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5
+[02-Oct-2018 04:49:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/legiajay/run.legibra.com/php/connect.php on line 12
+[02-Oct-2018 04:49:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/legiajay/run.legibra.com/admin/php/stats.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/legiajay/run.legibra.com/admin/php/stats.php on line 5

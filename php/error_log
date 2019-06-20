@@ -1,0 +1,5 @@
+[23-Aug-2018 06:08:27 America/New_York] PHP Notice:  Undefined index: phone in /home/legiajay/run.legibra.com/php/register.php on line 15
+[23-Aug-2018 06:08:27 America/New_York] PHP Notice:  Undefined index: name in /home/legiajay/run.legibra.com/php/register.php on line 16
+[23-Aug-2018 06:08:27 America/New_York] PHP Notice:  Undefined index: email in /home/legiajay/run.legibra.com/php/register.php on line 17
+[23-Aug-2018 06:08:27 America/New_York] PHP Notice:  Undefined index: distance in /home/legiajay/run.legibra.com/php/register.php on line 42
+[23-Aug-2018 06:08:30 America/New_York] PHP Notice:  Undefined index: distance in /home/legiajay/run.legibra.com/php/register.php on line 89
